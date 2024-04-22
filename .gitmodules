@@ -1,0 +1,8 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/devmastewalhabtu/CocaCola-Family-App-Backend
+	branch = main
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/devmastewalhabtu/CocaCola-Family-App-Frontend
+	branch = 1-create-screens
